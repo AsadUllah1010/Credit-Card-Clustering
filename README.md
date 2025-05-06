@@ -29,5 +29,6 @@ There are three features in the dataset which are very valuable for the task of 
 3. CREDIT_LIMIT: The limit of the credit card.
 <br>
 I have added a new column as “CREDIT_CARD_SEGMENTS”. It contains labels about the group of credit card customers. The groups formed range from 0 to 4. Credit card cluster analysis means grouping credit card holders based on their buying habits, credit limits, and many more financial factors. Such clustering analysis helps businesses find their potential customers and many more marketing strategies.
+
 # Contributing
 If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
